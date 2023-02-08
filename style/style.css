@@ -1,0 +1,12 @@
+body {
+  background: linear-gradient(rgb(239, 159, 105), rgb(244, 120, 141));
+  height: 100%;
+  width: 100%;
+}
+.conteiner {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh; 
+}
